@@ -1,0 +1,56 @@
+[project]
+site_name = "Статьи и исследования"
+site_description = "Статьи, заметки и исследования — от идеи к выводам."
+site_url = "https://rakki.github.io/fandoms/"
+docs_dir = "docs"
+site_dir = "site"
+use_directory_urls = true
+
+# Не задавайте nav: Zensical автоматически находит Markdown-страницы
+# и использует первый H1 как название, если нет title во front matter.
+
+[project.theme]
+variant = "modern"
+language = "ru"
+# Системные шрифты: без обращения к Google Fonts.
+font = false
+features = [
+  "navigation.expand",
+  "navigation.top",
+  "navigation.tracking",
+  "toc.follow",
+  "search.highlight",
+  "content.code.copy",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "lucide/sun"
+toggle.name = "Переключиться на тёмную тему"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "indigo"
+accent = "indigo"
+toggle.icon = "lucide/moon"
+toggle.name = "Переключиться на светлую тему"
+
+# Поиск Zensical включён по умолчанию и поддерживает несколько языков.
+[project.markdown_extensions]
+tables = {}
+attr_list = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}
+
+[project.markdown_extensions.toc]
+title = "Содержание"
+toc_depth = "2-4"
+permalink = true
+permalink_title = "Ссылка на этот раздел"
+# Сохраняем кириллицу и латиницу в автоматически созданных якорях.
+slugify.object = "pymdownx.slugs.slugify"
+slugify.kwds.case = "lower"
