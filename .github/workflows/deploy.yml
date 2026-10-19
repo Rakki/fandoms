@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
@@ -36,6 +38,9 @@ jobs:
 
       - name: Install Zensical
         run: python -m pip install zensical
+
+      - name: Collect article dates from Git
+        run: python scripts/collect_news_dates.py
 
       - name: Build site
         run: zensical build --clean

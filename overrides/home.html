@@ -1,0 +1,65 @@
+{% extends "main.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% set history = namespace(dates={}) %}
+  {% include "partials/generated-news-dates.html" ignore missing %}
+  {% set lang = page.meta.content_language | default('ru', true) %}
+  {% set english = lang == 'en' %}
+  {% set news_prefix = lang ~ '/news/' %}
+  {% set news_prefix_length = news_prefix | length %}
+  {% set permanent_prefix = lang ~ '/articles/' %}
+  {% set permanent_prefix_length = permanent_prefix | length %}
+  {% set articles = namespace(news=[], permanent=[]) %}
+  {% for article in nav.pages %}
+    {% if article.file.src_uri[:news_prefix_length] == news_prefix %}
+      {% set dates = history.dates[article.file.src_uri] | default({}) %}
+      {% set date = dates.updated | default('', true) %}
+      {% set articles.news = articles.news + [{'article': article, 'date': date}] %}
+    {% elif article.file.src_uri[:permanent_prefix_length] == permanent_prefix %}
+      {% set articles.permanent = articles.permanent + [article] %}
+    {% endif %}
+  {% endfor %}
+  {% set news = articles.news | sort(attribute='date', reverse=true) %}
+
+  {% macro news_list(entries) %}
+    <ul>
+      {% for entry in entries %}
+        <li>
+          <a href="{{ entry.article.url | url }}">{{ entry.article.title }}</a>
+          {% if entry.date %}
+            <small> — {{ 'Updated' if english else 'Обновлено' }} <time datetime="{{ entry.date }}">{{ entry.date[:10] }}</time></small>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endmacro %}
+
+  <section aria-labelledby="latest-articles">
+    <h2 id="latest-articles">{{ 'News and updated collections' if english else 'Новости и обновляемые подборки' }}</h2>
+    {% if news %}
+      {{ news_list(news[:3]) }}
+      {% if news | length > 3 %}
+        <details>
+          <summary>{{ 'Show more' if english else 'Показать больше' }}</summary>
+          {{ news_list(news[3:]) }}
+        </details>
+      {% endif %}
+    {% else %}
+      <p>{{ 'No news articles yet.' if english else 'Новостных публикаций пока нет.' }}</p>
+    {% endif %}
+  </section>
+
+  <section aria-labelledby="permanent-articles">
+    <h2 id="permanent-articles">{{ 'Articles and research' if english else 'Постоянные статьи и исследования' }}</h2>
+    {% if articles.permanent %}
+      <ul>
+        {% for article in articles.permanent | sort(attribute='title') %}
+          <li><a href="{{ article.url | url }}">{{ article.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>{{ 'No articles yet.' if english else 'Постоянных статей пока нет.' }}</p>
+    {% endif %}
+  </section>
+{% endblock %}

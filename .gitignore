@@ -1,6 +1,10 @@
 # Результат сборки и кеш Zensical
 /site/
 /.cache/
+/overrides/partials/generated-news-dates.html
+
+# Исходные экспорты Notion: в сайт попадают только выбранные материалы из docs/.
+/notion-exports/
 
 # Локальное окружение Python
 /.venv/

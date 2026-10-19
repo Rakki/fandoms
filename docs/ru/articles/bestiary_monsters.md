@@ -14,11 +14,11 @@ By Kitty
 
 Популярность: культовый; фундаментальная Minecraft-крипипаста.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image.png)
+![image.png](../../assets/bestiary_monsters/image.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%201.png)
+![image.png](../../assets/bestiary_monsters/image%201.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%202.png)
+![image.png](../../assets/bestiary_monsters/image%202.png)
 
 1. Verity — появился 30 мая 2026 года в постановочной Minecraft-horror серии ThatMob Something. Важное отличие от обычных horror-модов: оригинального Verity-мода на момент появления не существовало. ThatMob снимал хоррор-фильм, добавляя персонажа монтажом, анимацией и звуком.
 
@@ -28,11 +28,11 @@ Verity представляется персональным AI-помощник
 
 Популярность: один из крупнейших новых Minecraft-horror персонажей 2026 года.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%203.png)
+![image.png](../../assets/bestiary_monsters/image%203.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/844eb3b0-6e65-45a5-842b-858c909c386e.png)
+![image.png](../../assets/bestiary_monsters/844eb3b0-6e65-45a5-842b-858c909c386e.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%204.png)
+![image.png](../../assets/bestiary_monsters/image%204.png)
 
 1. Creator — впервые представлен как центральное существо фильма Twixxel Something is Already Here..., опубликованного 23 июня 2026 года. Twixxel прямо указывает, что фильм постановочный: Creator добавлен с помощью монтажа и звука, а настоящего мода из ролика не существует.
 
@@ -42,9 +42,9 @@ Verity представляется персональным AI-помощник
 
 Популярность: очень заметный новый Minecraft web-horror персонаж.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%205.png)
+![image.png](../../assets/bestiary_monsters/image%205.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%206.png)
+![image.png](../../assets/bestiary_monsters/image%206.png)
 
 1. The Stalker — LCrandom / The Parallel
 
@@ -58,11 +58,11 @@ Verity представляется персональным AI-помощник
 
 Популярность: один из наиболее узнаваемых персонажей современного Minecraft YouTube horror.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%207.png)
+![image.png](../../assets/bestiary_monsters/image%207.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/02d4bac7-aac7-45ee-ab10-9c29a9eef3da.png)
+![image.png](../../assets/bestiary_monsters/02d4bac7-aac7-45ee-ab10-9c29a9eef3da.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%208.png)
+![image.png](../../assets/bestiary_monsters/image%208.png)
 
 1. Cave Dweller — Gargin
 
@@ -76,9 +76,9 @@ Verity представляется персональным AI-помощник
 
 Популярность: культовый внутри современной Minecraft horror-mod сцены; прародитель большой волны dwellers.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%209.png)
+![image.png](../../assets/bestiary_monsters/image%209.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2010.png)
+![image.png](../../assets/bestiary_monsters/image%2010.png)
 
 1. The Man From The Fog
 
@@ -90,9 +90,9 @@ Man From The Fog появляется ночью и сначала наблюд�
 
 Популярность: один из самых известных Minecraft horror-mod персонажей.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2011.png)
+![image.png](../../assets/bestiary_monsters/image%2011.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2012.png)
+![image.png](../../assets/bestiary_monsters/image%2012.png)
 
 1. The One Who Watches
 
@@ -106,7 +106,7 @@ Man From The Fog появляется ночью и сначала наблюд�
 
 Популярность: очень известный horror-mod персонаж.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2013.png)
+![image.png](../../assets/bestiary_monsters/image%2013.png)
 
 1. The Knocker
 
@@ -116,9 +116,9 @@ Man From The Fog появляется ночью и сначала наблюд�
 
 Популярность: очень известный современный horror-mod персонаж.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2014.png)
+![image.png](../../assets/bestiary_monsters/image%2014.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2015.png)
+![image.png](../../assets/bestiary_monsters/image%2015.png)
 
 1. Entity 303
 
@@ -130,9 +130,9 @@ Man From The Fog появляется ночью и сначала наблюд�
 
 Популярность: классическая Minecraft-крипипаста второго поколения.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2016.png)
+![image.png](../../assets/bestiary_monsters/image%2016.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/2a433ab4-edc1-4f41-8c49-f09d253b8fd8.png)
+![image.png](../../assets/bestiary_monsters/2a433ab4-edc1-4f41-8c49-f09d253b8fd8.png)
 
 1. The Damned
 
@@ -142,9 +142,9 @@ The Damned выбирает конкретного игрока и станов�
 
 Популярность: очень высокая; один из крупнейших horror-модов этого поколения.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2017.png)
+![image.png](../../assets/bestiary_monsters/image%2017.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/ecf4b1f6-8626-4fd4-a9f4-9ffad2c36e06.png)
+![image.png](../../assets/bestiary_monsters/ecf4b1f6-8626-4fd4-a9f4-9ffad2c36e06.png)
 
 1. The Anomaly — clorobored
 
@@ -154,9 +154,9 @@ Anomaly живёт преимущественно в пещерах и не по
 
 Популярность: очень высокая.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/45382830-8976-4184-b0f0-183b7c095de7.png)
+![image.png](../../assets/bestiary_monsters/45382830-8976-4184-b0f0-183b7c095de7.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2018.png)
+![image.png](../../assets/bestiary_monsters/image%2018.png)
 
 1. The Mimicer
 
@@ -166,9 +166,9 @@ Anomaly живёт преимущественно в пещерах и не по
 
 Популярность: очень высокая.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2019.png)
+![image.png](../../assets/bestiary_monsters/image%2019.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2020.png)
+![image.png](../../assets/bestiary_monsters/image%2020.png)
 
 1. The Pale Hound
 
@@ -178,7 +178,7 @@ Pale Hound — не призрак и не цифровая аномалия, а
 
 Популярность: высокая внутри Minecraft horror
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/3f285894-03b8-4d67-bb8e-ebeac3c355d0.png)
+![image.png](../../assets/bestiary_monsters/3f285894-03b8-4d67-bb8e-ebeac3c355d0.png)
 
 1. Replacement Dog
 
@@ -190,9 +190,9 @@ Jerry Dog — монстр из Minecraft-horror серии LookOut2DD Something
 
 Популярность: очень высокая и быстро растёт. Серия LookOut2DD за короткое время набрала миллионы просмотров, поэтому Jerry Dog уже разошёлся как узнаваемый свежий Minecraft-horror персонаж.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2021.png)
+![image.png](../../assets/bestiary_monsters/image%2021.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/99cbb957-b431-48bd-b8ca-0e224fb666b7.png)
+![image.png](../../assets/bestiary_monsters/99cbb957-b431-48bd-b8ca-0e224fb666b7.png)
 
 ## Roblox Horror
 
@@ -206,9 +206,9 @@ Jerry Dog — монстр из Minecraft-horror серии LookOut2DD Something
 
 Популярность: максимальная; одна из базовых Roblox-легенд. В свежем r/RobloxMyths его регулярно включают в «Mount Rushmore» платформенного фольклора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2022.png)
+![image.png](../../assets/bestiary_monsters/image%2022.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2023.png)
+![image.png](../../assets/bestiary_monsters/image%2023.png)
 
 1. Blox Watch
 
@@ -222,9 +222,9 @@ Jerry Dog — монстр из Minecraft-horror серии LookOut2DD Something
 
 Популярность: высокая, особенно среди старых Roblox urban legends; в свежих обсуждениях платформенных мифов Blox Watch всё ещё называется рядом с Guest 666 и Spirit.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2024.png)
+![image.png](../../assets/bestiary_monsters/image%2024.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2025.png)
+![image.png](../../assets/bestiary_monsters/image%2025.png)
 
 1. Spirit
 
@@ -234,9 +234,9 @@ Jerry Dog — монстр из Minecraft-horror серии LookOut2DD Something
 
 Популярность: исторически культовый; сегодня менее массовый, чем Guest 666 или John Doe, но фундаментальный для происхождения всей Roblox myth culture.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2026.png)
+![image.png](../../assets/bestiary_monsters/image%2026.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2027.png)
+![image.png](../../assets/bestiary_monsters/image%2027.png)
 
 1. DIAM0NDEYES / OcuAda
 
@@ -246,11 +246,11 @@ DIAM0NDEYES, также известная как OcuAda, — древняя с�
 
 Популярность: высокая внутри классического Roblox myth-фэндома; The Smiles Family остаётся одним из наиболее известных больших сюжетных myths. Даже в 2026 году Reddit продолжает активно разбирать его лор и обновления.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2028.png)
+![image.png](../../assets/bestiary_monsters/image%2028.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2029.png)
+![image.png](../../assets/bestiary_monsters/image%2029.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2030.png)
+![image.png](../../assets/bestiary_monsters/image%2030.png)
 
 1. The Intruder
 
@@ -262,11 +262,11 @@ DIAM0NDEYES, также известная как OcuAda, — древняя с�
 
 Популярность: очень высокая; The Intruder регулярно вспоминают на Reddit среди наиболее страшных самостоятельных Roblox horror-игр
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2031.png)
+![image.png](../../assets/bestiary_monsters/image%2031.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2032.png)
+![image.png](../../assets/bestiary_monsters/image%2032.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2033.png)
+![image.png](../../assets/bestiary_monsters/image%2033.png)
 
 1. The Mutant / Larry
 
@@ -282,9 +282,9 @@ DIAM0NDEYES, также известная как OcuAda, — древняя с�
 
 Популярность: высокая; один из наиболее узнаваемых одиночных Roblox survival-horror монстров последних лет.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2034.png)
+![image.png](../../assets/bestiary_monsters/image%2034.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2035.png)
+![image.png](../../assets/bestiary_monsters/image%2035.png)
 
 1. Creepy Face Skinwalker
 
@@ -296,7 +296,7 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: умеренная. Белая версия собрала несколько сотен добавлений в избранное, а остальные варианты заметно меньше; предмет скорее известен внутри Roblox UGC/horror-каталога, чем как самостоятельный мем или персонаж.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2036.png)
+![image.png](../../assets/bestiary_monsters/image%2036.png)
 
 1. Husk
 
@@ -308,9 +308,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых узнаваемых монстров NULLSCAPE, особенно из-за старого названия Skinwalker.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2037.png)
+![image.png](../../assets/bestiary_monsters/image%2037.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2038.png)
+![image.png](../../assets/bestiary_monsters/image%2038.png)
 
 ## Roblox DOORS
 
@@ -324,11 +324,11 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых известных персонажей DOORS; именно погони с Seek часто называют одной из самых запоминающихся частей игры
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2039.png)
+![image.png](../../assets/bestiary_monsters/image%2039.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2040.png)
+![image.png](../../assets/bestiary_monsters/image%2040.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2041.png)
+![image.png](../../assets/bestiary_monsters/image%2041.png)
 
 1. Figure
 
@@ -340,9 +340,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: вместе с Seek — один из главных маскотов игры и один из наиболее узнаваемых монстров DOORS.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2042.png)
+![image.png](../../assets/bestiary_monsters/image%2042.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2043.png)
+![image.png](../../assets/bestiary_monsters/image%2043.png)
 
 1. Rush
 
@@ -354,7 +354,7 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых узнаваемых рядовых монстров DOORS; его механика стала практически символом игры. В фанатских обсуждениях Rush регулярно называют любимой сущностью.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2044.png)
+![image.png](../../assets/bestiary_monsters/image%2044.png)
 
 1. Ambush
 
@@ -366,7 +366,7 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых популярных классических монстров DOORS благодаря внезапности и значительно более сложной атаке.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2045.png)
+![image.png](../../assets/bestiary_monsters/image%2045.png)
 
 1. Screech 
 
@@ -380,9 +380,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Следующими по значимости я бы уже разбирал Eyes, Halt, Dupe, Dread, Giggle и Grumble — особенно последние два, потому что после The Mines они стали отдельной большой частью фэндома.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2046.png)
+![image.png](../../assets/bestiary_monsters/image%2046.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2047.png)
+![image.png](../../assets/bestiary_monsters/image%2047.png)
 
 ## The Mandela Catalogue
 
@@ -396,9 +396,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: главный символ The Mandela Catalogue и один из самых узнаваемых персонажей всего analog-horror фэндома.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2048.png)
+![image.png](../../assets/bestiary_monsters/image%2048.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2049.png)
+![image.png](../../assets/bestiary_monsters/image%2049.png)
 
 1. The Intruder / 6
 
@@ -410,9 +410,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из главных символов раннего Mandela Catalogue
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2050.png)
+![image.png](../../assets/bestiary_monsters/image%2050.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2051.png)
+![image.png](../../assets/bestiary_monsters/image%2051.png)
 
 1. N
 
@@ -422,9 +422,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых известных визуальных образов серии;
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2052.png)
+![image.png](../../assets/bestiary_monsters/image%2052.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2053.png)
+![image.png](../../assets/bestiary_monsters/image%2053.png)
 
 1. The Preacher
 
@@ -434,9 +434,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых известных скримерных образов сериала;
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2054.png)
+![image.png](../../assets/bestiary_monsters/image%2054.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2055.png)
+![image.png](../../assets/bestiary_monsters/image%2055.png)
 
 1. Cesar’s Alternate
 
@@ -448,9 +448,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых известных персонажей раннего Mandela Catalogue благодаря знаменитому телефонному разговору Cesar и Mark.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2056.png)
+![image.png](../../assets/bestiary_monsters/image%2056.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2057.png)
+![image.png](../../assets/bestiary_monsters/image%2057.png)
 
 ## Vita Carnis
 
@@ -464,9 +464,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: самый узнаваемый монстр Vita Carnis и фактически главный маскот серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2058.png)
+![image.png](../../assets/bestiary_monsters/image%2058.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2059.png)
+![image.png](../../assets/bestiary_monsters/image%2059.png)
 
 1. Elder Mimic
 
@@ -478,9 +478,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых любимых поздних дизайнов Vita Carnis; персонаж получил отдельный официальный мерч
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2060.png)
+![image.png](../../assets/bestiary_monsters/image%2060.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2061.png)
+![image.png](../../assets/bestiary_monsters/image%2061.png)
 
 1. Host of Influence
 
@@ -492,9 +492,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из наиболее необычных монстров Vita Carnis благодаря сочетанию body horror и контроля сознания.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2062.png)
+![image.png](../../assets/bestiary_monsters/image%2062.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2063.png)
+![image.png](../../assets/bestiary_monsters/image%2063.png)
 
 1. Meat Snake
 
@@ -506,9 +506,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых узнаваемых «неагрессивных» видов Vita Carnis.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2064.png)
+![image.png](../../assets/bestiary_monsters/image%2064.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2065.png)
+![image.png](../../assets/bestiary_monsters/image%2065.png)
 
 1. Monolith
 
@@ -520,9 +520,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых впечатляющих и узнаваемых дизайнов серии благодаря огромному масштабу.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2066.png)
+![image.png](../../assets/bestiary_monsters/image%2066.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2067.png)
+![image.png](../../assets/bestiary_monsters/image%2067.png)
 
 1. Singularity
 
@@ -534,9 +534,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: очень высокая среди фанатов лора именно из-за неизвестного происхождения и связи с общей тайной Vita Carnis.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2068.png)
+![image.png](../../assets/bestiary_monsters/image%2068.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2069.png)
+![image.png](../../assets/bestiary_monsters/image%2069.png)
 
 ## E.L.B.E.R.R. / I Made a Self-Aware Robot
 
@@ -548,9 +548,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: очень высокая для нового интернет-хоррора. Первый ролик LIGHTS ARE OFF набрал более 6 млн просмотров, а персонаж быстро получил продолжения, фанатские песни, арты и отдельные игры; вдохновлённая им Roblox-игра Self-Aware Robot [E.L.B.E.R.R] уже набрала около 7,7 млн посещений.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2070.png)
+![image.png](../../assets/bestiary_monsters/image%2070.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2071.png)
+![image.png](../../assets/bestiary_monsters/image%2071.png)
 
 ## Doctor Nowhere
 
@@ -564,7 +564,7 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: заметный, но далеко не самый известный персонаж Doctor Nowhere. The Boiled One и Locust гораздо сильнее вышли за пределы основного фэндома.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2072.png)
+![image.png](../../assets/bestiary_monsters/image%2072.png)
 
 1. The Boiled One / PHEN-228
 
@@ -576,9 +576,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: самый известный персонаж Doctor Nowhere и один из наиболее узнаваемых монстров современного analog horror.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2073.png)
+![image.png](../../assets/bestiary_monsters/image%2073.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2074.png)
+![image.png](../../assets/bestiary_monsters/image%2074.png)
 
 1. The Locust
 
@@ -590,9 +590,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: второй по узнаваемости монстр Doctor Nowhere после Boiled One; дополнительно получил большую аудиторию благодаря Roblox-адаптации
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2075.png)
+![image.png](../../assets/bestiary_monsters/image%2075.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2076.png)
+![image.png](../../assets/bestiary_monsters/image%2076.png)
 
 1. Cone Zone
 
@@ -604,9 +604,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: не такой массовый, как The Boiled One или The Locust, но заметный внутри фэндома Doctor Nowhere; его регулярно упоминают рядом с The Doctor, Guilt и другими любимыми существами автора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2077.png)
+![image.png](../../assets/bestiary_monsters/image%2077.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2078.png)
+![image.png](../../assets/bestiary_monsters/image%2078.png)
 
 1. White Stranger
 
@@ -618,7 +618,7 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: нишевый, но хорошо узнаваемый среди поклонников существ Doctor Nowhere благодаря очень сильному визуальному образу.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2079.png)
+![image.png](../../assets/bestiary_monsters/image%2079.png)
 
 1. The Room
 
@@ -630,9 +630,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: нишевый персонаж по сравнению с The Boiled One или Locust, но внутри фэндома Doctor Nowhere хорошо запоминается именно из-за необычной формы головы.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2080.png)
+![image.png](../../assets/bestiary_monsters/image%2080.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2081.png)
+![image.png](../../assets/bestiary_monsters/image%2081.png)
 
 1. FATHER FESTER / Father Harvest
 
@@ -644,9 +644,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: заметный персонаж внутри фэндома Doctor Nowhere, хотя значительно менее известный, чем The Boiled One или The Locust. На фан-вики его относят к наиболее враждебным существам автора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/ce2d7a24-aa24-45e9-b5cf-d38e220f601e.png)
+![image.png](../../assets/bestiary_monsters/ce2d7a24-aa24-45e9-b5cf-d38e220f601e.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2082.png)
+![image.png](../../assets/bestiary_monsters/image%2082.png)
 
 1. BreathMan / Ichabody
 
@@ -658,9 +658,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых сильных визуальных дизайнов The Oddity Compendium.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2083.png)
+![image.png](../../assets/bestiary_monsters/image%2083.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2084.png)
+![image.png](../../assets/bestiary_monsters/image%2084.png)
 
 1. Guilt / The Boy
 
@@ -672,9 +672,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из наиболее узнаваемых сюжетных монстров Doctor Nowhere после Boiled One и Locust.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2085.png)
+![image.png](../../assets/bestiary_monsters/image%2085.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2086.png)
+![image.png](../../assets/bestiary_monsters/image%2086.png)
 
 1. Black Hat Trench
 
@@ -686,9 +686,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых запоминающихся «безымянных гигантов» Doctor Nowhere благодаря очень простому силуэту.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2087.png)
+![image.png](../../assets/bestiary_monsters/image%2087.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2088.png)
+![image.png](../../assets/bestiary_monsters/image%2088.png)
 
 1. Birthday Giant
 
@@ -700,9 +700,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из наиболее необычных и легко рисуемых гигантов автора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2089.png)
+![image.png](../../assets/bestiary_monsters/image%2089.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2090.png)
+![image.png](../../assets/bestiary_monsters/image%2090.png)
 
 1. The Long Neck / Red Smiley Face
 
@@ -714,9 +714,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: один из самых необычных современных дизайнов Doctor Nowhere.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2091.png)
+![image.png](../../assets/bestiary_monsters/image%2091.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2092.png)
+![image.png](../../assets/bestiary_monsters/image%2092.png)
 
 1. Longboy Bonsai
 
@@ -728,9 +728,9 @@ UGC-предмет для Roblox, созданный группой Protopoly. �
 
 Популярность: заметный мемный персонаж Doctor Nowhere, но для чистого хоррор-каталога я бы ставил его ниже остальных.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2093.png)
+![image.png](../../assets/bestiary_monsters/image%2093.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/9cac8d97-d820-4947-9c73-070c00d18154.png)
+![image.png](../../assets/bestiary_monsters/9cac8d97-d820-4947-9c73-070c00d18154.png)
 
 1. Sunman
 
@@ -742,9 +742,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: заметный персонаж внутри фэндома Doctor Nowhere и один из чаще обсуждаемых существ на фан-вики, но значительно менее известен широкой аудитории, чем The Boiled One или The Locust.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2094.png)
+![image.png](../../assets/bestiary_monsters/image%2094.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2095.png)
+![image.png](../../assets/bestiary_monsters/image%2095.png)
 
 1. Anklager
 
@@ -756,9 +756,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из заметных персонажей фэндома Doctor Nowhere; на вики он входит в число трендовых существ рядом с The Locust, Sunman, The Boiled One, Guilt, Father Fester и Cone Zone.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2096.png)
+![image.png](../../assets/bestiary_monsters/image%2096.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2097.png)
+![image.png](../../assets/bestiary_monsters/image%2097.png)
 
 1. Baby Eater John
 
@@ -770,9 +770,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из заметных новых персонажей фэндома Doctor Nowhere; он входит в число трендовых страниц категории Humanoid и регулярно появляется в обсуждениях сообщества.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2098.png)
+![image.png](../../assets/bestiary_monsters/image%2098.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%2099.png)
+![image.png](../../assets/bestiary_monsters/image%2099.png)
 
 1. Soap
 
@@ -782,9 +782,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: очень высокая внутри фэндома Doctor Nowhere. На фан-вики Soap прямо называют одним из самых известных персонажей автора после The Locust и The Boiled One; сам Doctor Nowhere также часто использует Soap как символическое представление себя
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/939486c1-f6f4-4c98-b92f-6891e29ba485.png)
+![image.png](../../assets/bestiary_monsters/939486c1-f6f4-4c98-b92f-6891e29ba485.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20100.png)
+![image.png](../../assets/bestiary_monsters/image%20100.png)
 
 1. Angelmeat
 
@@ -796,9 +796,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: заметный персонаж среди «ангельских» существ Doctor Nowhere
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20101.png)
+![image.png](../../assets/bestiary_monsters/image%20101.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20102.png)
+![image.png](../../assets/bestiary_monsters/image%20102.png)
 
 1. A-EYE
 
@@ -810,7 +810,7 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: заметный новый персонаж фэндома; A-EYE входит в число трендовых гигантов 
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20103.png)
+![image.png](../../assets/bestiary_monsters/image%20103.png)
 
 1. Filbus
 
@@ -822,9 +822,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых мемных и известных персонажей Doctor Nowhere; вокруг Filbus сформировался отдельный пласт шуток
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20104.png)
+![image.png](../../assets/bestiary_monsters/image%20104.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20105.png)
+![image.png](../../assets/bestiary_monsters/image%20105.png)
 
 1. Desiderio
 
@@ -836,9 +836,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из наиболее сюжетно проработанных новых монстров Doctor Nowhere и относится к наиболее враждебным существам автора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20106.png)
+![image.png](../../assets/bestiary_monsters/image%20106.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20107.png)
+![image.png](../../assets/bestiary_monsters/image%20107.png)
 
 1. That One
 
@@ -850,7 +850,7 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: нишевый мемный персонаж внутри фэндома Doctor Nowhere
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20108.png)
+![image.png](../../assets/bestiary_monsters/image%20108.png)
 
 ## Backrooms
 
@@ -864,9 +864,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых известных современных Backrooms-монстров. После вирусного успеха видео Kane Pixels этот силуэт стал почти таким же узнаваемым, как классический жёлтый Level 0.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/e4199ec9-0e58-4c65-8d2c-37c3cf3ff8a7.png)
+![image.png](../../assets/bestiary_monsters/e4199ec9-0e58-4c65-8d2c-37c3cf3ff8a7.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20109.png)
+![image.png](../../assets/bestiary_monsters/image%20109.png)
 
 1. Partygoer
 
@@ -878,9 +878,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых узнаваемых монстров Backrooms-фэндома и один из главных символов Level Fun, хотя его канон неоднократно переписывался и отличается между вики и играми.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20110.png)
+![image.png](../../assets/bestiary_monsters/image%20110.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20111.png)
+![image.png](../../assets/bestiary_monsters/image%20111.png)
 
 1. Smiler
 
@@ -892,9 +892,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из абсолютных символов Backrooms и, вероятно, один из самых узнаваемых монстров фэндома вообще.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20112.png)
+![image.png](../../assets/bestiary_monsters/image%20112.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/1eef9914-f543-4e55-9dcb-92fac3d7f4ad.png)
+![image.png](../../assets/bestiary_monsters/1eef9914-f543-4e55-9dcb-92fac3d7f4ad.png)
 
 1. Hound
 
@@ -906,9 +906,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из классических монстров Backrooms, регулярно появляющийся в играх и фанатских адаптациях.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/5744b9e8-7ebf-4066-ad0e-24e7f9b935b3.png)
+![image.png](../../assets/bestiary_monsters/5744b9e8-7ebf-4066-ad0e-24e7f9b935b3.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/427df450-c659-42f3-8b8e-39871a6c5d19.png)
+![image.png](../../assets/bestiary_monsters/427df450-c659-42f3-8b8e-39871a6c5d19.png)
 
 1. Skin-Stealer
 
@@ -920,9 +920,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых известных гуманоидных монстров Backrooms и сильный кандидат для твоего каталога.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20113.png)
+![image.png](../../assets/bestiary_monsters/image%20113.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20114.png)
+![image.png](../../assets/bestiary_monsters/image%20114.png)
 
 1. Clump
 
@@ -934,9 +934,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: очень характерный body-horror монстр и хорошо узнаётся среди людей, глубже знакомых с Backrooms.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20115.png)
+![image.png](../../assets/bestiary_monsters/image%20115.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20116.png)
+![image.png](../../assets/bestiary_monsters/image%20116.png)
 
 1. Pirate Clark
 
@@ -948,9 +948,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: очень высокая сейчас — после выхода фильма Pirate Clark стал главным новым монстром Backrooms и уже получил отдельные фан-игры и большое количество обсуждений сообщества. Например, в Roblox уже появилась отдельная Escape Backrooms Pirate, где он называется Pirate Clark.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20117.png)
+![image.png](../../assets/bestiary_monsters/image%20117.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20118.png)
+![image.png](../../assets/bestiary_monsters/image%20118.png)
 
 ## Godzilla analog horror
 
@@ -964,9 +964,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых известных Godzilla analog horror-персонажей; крупные хоррор-каналы делали отдельные разборы серии с миллионами просмотров.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/c7f71e36-da93-4338-a939-86c873904d62.png)
+![image.png](../../assets/bestiary_monsters/c7f71e36-da93-4338-a939-86c873904d62.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/e3ab2e2b-6293-4918-b46c-6ea64ef0ee37.png)
+![image.png](../../assets/bestiary_monsters/e3ab2e2b-6293-4918-b46c-6ea64ef0ee37.png)
 
 1. Suitmation Trials Godzilla
 
@@ -978,9 +978,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из ранних и самых влиятельных Godzilla analog horror-проектов; сам образ позже вдохновил The Man in the Suit и получил адаптации в фанатских играх.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20119.png)
+![image.png](../../assets/bestiary_monsters/image%20119.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20120.png)
+![image.png](../../assets/bestiary_monsters/image%20120.png)
 
 1. Bloodbath Godzilla / The Grin
 
@@ -992,15 +992,15 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых распространённых новых Godzilla-horror образов; персонаж уже регулярно появляется в фанатских модах, артах и опросах хоррор-версий Godzilla.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/fa79b61f-a61f-476b-bad1-cd89e31146df.png)
+![image.png](../../assets/bestiary_monsters/fa79b61f-a61f-476b-bad1-cd89e31146df.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20121.png)
+![image.png](../../assets/bestiary_monsters/image%20121.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20122.png)
+![image.png](../../assets/bestiary_monsters/image%20122.png)
 
 ## Liminal Land analog horror
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/7a072e57-e9be-4486-a19b-233f098a7749.png)
+![image.png](../../assets/bestiary_monsters/7a072e57-e9be-4486-a19b-233f098a7749.png)
 
 1. Maria Ramos / Deformed Maria
 
@@ -1012,9 +1012,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых узнаваемых disturbing-face образов Liminal Land.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/97619dfd-b69c-429f-8284-f29ac7dbb0ef.png)
+![image.png](../../assets/bestiary_monsters/97619dfd-b69c-429f-8284-f29ac7dbb0ef.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20123.png)
+![image.png](../../assets/bestiary_monsters/image%20123.png)
 
 1. Rick Ackerman
 
@@ -1024,9 +1024,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Внешность: после поездки лицо Rick было сильно искажено и почти перестало выглядеть человеческим; именно такие «distortion faces» стали одним из самых узнаваемых визуальных элементов Liminal Land.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20124.png)
+![image.png](../../assets/bestiary_monsters/image%20124.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20125.png)
+![image.png](../../assets/bestiary_monsters/image%20125.png)
 
 1. Lina Sorenson
 
@@ -1038,9 +1038,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: одна из трёх самых известных «distorted victims» Liminal Land вместе с Maria Ramos и Rick Ackerman.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20126.png)
+![image.png](../../assets/bestiary_monsters/image%20126.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20127.png)
+![image.png](../../assets/bestiary_monsters/image%20127.png)
 
 ## IMSCARED
 
@@ -1054,9 +1054,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: самый узнаваемый образ IMSCARED и фактически маскот игры.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20128.png)
+![image.png](../../assets/bestiary_monsters/image%20128.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20129.png)
+![image.png](../../assets/bestiary_monsters/image%20129.png)
 
 1. HER
 
@@ -1068,9 +1068,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: второй по известности персонаж IMSCARED после White Face и одна из центральных фигур лора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20130.png)
+![image.png](../../assets/bestiary_monsters/image%20130.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20131.png)
+![image.png](../../assets/bestiary_monsters/image%20131.png)
 
 ## The Walten Files
 
@@ -1084,9 +1084,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: главный и наиболее узнаваемый монстр The Walten Files.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20132.png)
+![image.png](../../assets/bestiary_monsters/image%20132.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20133.png)
+![image.png](../../assets/bestiary_monsters/image%20133.png)
 
 1. “Bon”
 
@@ -1098,9 +1098,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых сильных визуальных образов поздних эпизодов серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20134.png)
+![image.png](../../assets/bestiary_monsters/image%20134.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20135.png)
+![image.png](../../assets/bestiary_monsters/image%20135.png)
 
 1. Banny / Susan Woodings
 
@@ -1112,9 +1112,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из основных классических аниматроников серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20136.png)
+![image.png](../../assets/bestiary_monsters/image%20136.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20137.png)
+![image.png](../../assets/bestiary_monsters/image%20137.png)
 
 1. Sha / Rosemary Walten
 
@@ -1126,11 +1126,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых узнаваемых персонажей The Walten Files после Bon.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20138.png)
+![image.png](../../assets/bestiary_monsters/image%20138.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20139.png)
+![image.png](../../assets/bestiary_monsters/image%20139.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20140.png)
+![image.png](../../assets/bestiary_monsters/image%20140.png)
 
 1. Boozoo / Charles Brook
 
@@ -1142,11 +1142,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из четырёх основных Showstoppers.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20141.png)
+![image.png](../../assets/bestiary_monsters/image%20141.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20142.png)
+![image.png](../../assets/bestiary_monsters/image%20142.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20143.png)
+![image.png](../../assets/bestiary_monsters/image%20143.png)
 
 1. Billy
 
@@ -1158,9 +1158,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: заметный второстепенный монстр серии благодаря очень характерному клоунскому дизайну.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20144.png)
+![image.png](../../assets/bestiary_monsters/image%20144.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20145.png)
+![image.png](../../assets/bestiary_monsters/image%20145.png)
 
 1. Rocket / Edd & Molly
 
@@ -1172,9 +1172,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из центральных сверхъестественных образов лора.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20146.png)
+![image.png](../../assets/bestiary_monsters/image%20146.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20147.png)
+![image.png](../../assets/bestiary_monsters/image%20147.png)
 
 1. Pumpkin Rabbit / Lorenzo Waterman
 
@@ -1186,9 +1186,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых известных монстров всей серии вне основной линии Bon’s Burgers.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20148.png)
+![image.png](../../assets/bestiary_monsters/image%20148.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20149.png)
+![image.png](../../assets/bestiary_monsters/image%20149.png)
 
 1. Witch Sheep / Rachel Waterman
 
@@ -1200,9 +1200,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: обычно воспринимается как второй главный монстр ветки Pumpkin Rabbit.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20150.png)
+![image.png](../../assets/bestiary_monsters/image%20150.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20151.png)
+![image.png](../../assets/bestiary_monsters/image%20151.png)
 
 ## Gemini Home Entertainment
 
@@ -1216,9 +1216,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: главный и самый узнаваемый монстр Gemini Home Entertainment.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20152.png)
+![image.png](../../assets/bestiary_monsters/image%20152.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20153.png)
+![image.png](../../assets/bestiary_monsters/image%20153.png)
 
 1. Fake People
 
@@ -1230,7 +1230,7 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из наиболее известных uncanny-образов серии после Woodcrawlers.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20154.png)
+![image.png](../../assets/bestiary_monsters/image%20154.png)
 
 1. Nature’s Mockery
 
@@ -1242,9 +1242,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых сильных body-horror образов серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20155.png)
+![image.png](../../assets/bestiary_monsters/image%20155.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20156.png)
+![image.png](../../assets/bestiary_monsters/image%20156.png)
 
 ## Sprunki / Incredibox Sprunki
 
@@ -1258,11 +1258,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых узнаваемых персонажей всего Sprunki.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20157.png)
+![image.png](../../assets/bestiary_monsters/image%20157.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20158.png)
+![image.png](../../assets/bestiary_monsters/image%20158.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/7cd1b4e8-cb7f-40d1-b242-f6a67ae639c7.png)
+![image.png](../../assets/bestiary_monsters/7cd1b4e8-cb7f-40d1-b242-f6a67ae639c7.png)
 
 1. Wenda
 
@@ -1274,9 +1274,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых популярных horror-образов Sprunki после Black.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20159.png)
+![image.png](../../assets/bestiary_monsters/image%20159.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20160.png)
+![image.png](../../assets/bestiary_monsters/image%20160.png)
 
 1. Simon
 
@@ -1288,9 +1288,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых часто рисуемых хоррор-персонажей Sprunki.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20161.png)
+![image.png](../../assets/bestiary_monsters/image%20161.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20162.png)
+![image.png](../../assets/bestiary_monsters/image%20162.png)
 
 1. Durple
 
@@ -1302,11 +1302,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: хорошо узнаваем благодаря особенно гротескной хоррор-форме.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20163.png)
+![image.png](../../assets/bestiary_monsters/image%20163.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20164.png)
+![image.png](../../assets/bestiary_monsters/image%20164.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20165.png)
+![image.png](../../assets/bestiary_monsters/image%20165.png)
 
 1. Mr. Sun
 
@@ -1318,9 +1318,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых сильных визуальных horror-дизайнов Sprunki.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20166.png)
+![image.png](../../assets/bestiary_monsters/image%20166.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20167.png)
+![image.png](../../assets/bestiary_monsters/image%20167.png)
 
 1. Brud
 
@@ -1332,9 +1332,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: очень узнаваем благодаря простому и одновременно довольно жуткому дизайну.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20168.png)
+![image.png](../../assets/bestiary_monsters/image%20168.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20169.png)
+![image.png](../../assets/bestiary_monsters/image%20169.png)
 
 1. Pinki
 
@@ -1346,9 +1346,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: одна из самых известных «gore»-форм Sprunki.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20170.png)
+![image.png](../../assets/bestiary_monsters/image%20170.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20171.png)
+![image.png](../../assets/bestiary_monsters/image%20171.png)
 
 1. Vineria
 
@@ -1360,9 +1360,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: популярна именно благодаря растительному body horror.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20172.png)
+![image.png](../../assets/bestiary_monsters/image%20172.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20173.png)
+![image.png](../../assets/bestiary_monsters/image%20173.png)
 
 ## Local 58
 
@@ -1376,9 +1376,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: самый явный классический «монстр» Local 58 и один из наиболее узнаваемых кадров серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20174.png)
+![image.png](../../assets/bestiary_monsters/image%20174.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20175.png)
+![image.png](../../assets/bestiary_monsters/image%20175.png)
 
 1. Cadavre
 
@@ -1390,11 +1390,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: один из самых узнаваемых персонажей Local 58 именно благодаря резкому переходу от безобидного мультяшного дизайна к реалистичному horror-образу.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20176.png)
+![image.png](../../assets/bestiary_monsters/image%20176.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20177.png)
+![image.png](../../assets/bestiary_monsters/image%20177.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20178.png)
+![image.png](../../assets/bestiary_monsters/image%20178.png)
 
 1. Луна / The Moon / “His Throne”
 
@@ -1406,11 +1406,11 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: главный визуальный и сюжетный символ Local 58
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20179.png)
+![image.png](../../assets/bestiary_monsters/image%20179.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20180.png)
+![image.png](../../assets/bestiary_monsters/image%20180.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/0d8f48fd-bf4c-481a-9521-2dd75fbc5443.png)
+![image.png](../../assets/bestiary_monsters/0d8f48fd-bf4c-481a-9521-2dd75fbc5443.png)
 
 ## Amanda the Adventurer
 
@@ -1424,9 +1424,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: главный символ франшизы и один из наиболее узнаваемых современных mascot-horror персонажей.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20181.png)
+![image.png](../../assets/bestiary_monsters/image%20181.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20182.png)
+![image.png](../../assets/bestiary_monsters/image%20182.png)
 
 1. The Entity / Amanda Monster
 
@@ -1438,9 +1438,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: самый известный «настоящий монстр» серии и один из её главных визуальных образов.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20183.png)
+![image.png](../../assets/bestiary_monsters/image%20183.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20184.png)
+![image.png](../../assets/bestiary_monsters/image%20184.png)
 
 1. Butcher / Meat Man
 
@@ -1452,9 +1452,9 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: второстепенный, но хорошо узнаваемый ранний horror-образ серии.
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20185.png)
+![image.png](../../assets/bestiary_monsters/image%20185.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/466b1579-f3ec-4978-806b-05bcc55fa565.png)
+![image.png](../../assets/bestiary_monsters/466b1579-f3ec-4978-806b-05bcc55fa565.png)
 
 1. Wooly Entity / Shepherd
 
@@ -1466,74 +1466,74 @@ Sunman — отдельное существо Doctor Nowhere, которое п
 
 Популярность: после секретной концовки второй игры Horror Wooly стал одним из главных новых монстров франшизы; ролики с “Wooly Monster” быстро набрали миллионы просмотров
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20186.png)
+![image.png](../../assets/bestiary_monsters/image%20186.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20187.png)
+![image.png](../../assets/bestiary_monsters/image%20187.png)
 
 ## Оriginal horror art
 
 1. PITCH CANKER - хоррор художник
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20188.png)
+![image.png](../../assets/bestiary_monsters/image%20188.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20189.png)
+![image.png](../../assets/bestiary_monsters/image%20189.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20190.png)
+![image.png](../../assets/bestiary_monsters/image%20190.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20191.png)
+![image.png](../../assets/bestiary_monsters/image%20191.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/ae19f5e6-d4e9-42f9-93ac-8c77f68c97c5.png)
+![image.png](../../assets/bestiary_monsters/ae19f5e6-d4e9-42f9-93ac-8c77f68c97c5.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20192.png)
+![image.png](../../assets/bestiary_monsters/image%20192.png)
 
 1. What's Wrong With This Picture? / Eyeless Woman
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20193.png)
+![image.png](../../assets/bestiary_monsters/image%20193.png)
 
 1. Ahenobarbus Henocied
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20194.png)
+![image.png](../../assets/bestiary_monsters/image%20194.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20195.png)
+![image.png](../../assets/bestiary_monsters/image%20195.png)
 
 1. Obunga
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20196.png)
+![image.png](../../assets/bestiary_monsters/image%20196.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20197.png)
+![image.png](../../assets/bestiary_monsters/image%20197.png)
 
 1. Trollge
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20198.png)
+![image.png](../../assets/bestiary_monsters/image%20198.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20199.png)
+![image.png](../../assets/bestiary_monsters/image%20199.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20200.png)
+![image.png](../../assets/bestiary_monsters/image%20200.png)
 
 1. 67 Kid Analog Horro
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20201.png)
+![image.png](../../assets/bestiary_monsters/image%20201.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20202.png)
+![image.png](../../assets/bestiary_monsters/image%20202.png)
 
 1. Mereana Mordegard Glesgorv
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20203.png)
+![image.png](../../assets/bestiary_monsters/image%20203.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20204.png)
+![image.png](../../assets/bestiary_monsters/image%20204.png)
 
 1. Uncanny Grin
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20205.png)
+![image.png](../../assets/bestiary_monsters/image%20205.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20206.png)
+![image.png](../../assets/bestiary_monsters/image%20206.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20207.png)
+![image.png](../../assets/bestiary_monsters/image%20207.png)
 
 1. Black Eyes in Darkness
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20208.png)
+![image.png](../../assets/bestiary_monsters/image%20208.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20209.png)
+![image.png](../../assets/bestiary_monsters/image%20209.png)
 
-![image.png](%D0%91%D0%B5%D1%81%D1%82%D0%B8%D0%B0%D1%80%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2/image%20210.png)
+![image.png](../../assets/bestiary_monsters/image%20210.png)

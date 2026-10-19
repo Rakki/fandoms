@@ -1,0 +1,28 @@
+{# Use the generated navigation to find an existing translation at build time. #}
+<div class="md-select">
+  <button class="md-header__button md-icon" aria-label="Выбрать язык / Choose language" type="button">
+    {% include ".icons/lucide/languages.svg" %}
+  </button>
+  <div class="md-select__inner">
+    <ul class="md-select__list">
+      {% for alt in config.extra.alternate %}
+        {% set translation = namespace(url=alt.link) %}
+        {% if page and page.file %}
+          {% if page.file.src_uri[:3] in ['ru/', 'en/'] %}
+            {% set target = alt.lang ~ page.file.src_uri[2:] %}
+            {% for candidate in nav recursive %}
+              {% if candidate.children %}
+                {{ loop(candidate.children) }}
+              {% elif candidate.is_page and candidate.file.src_uri == target %}
+                {% set translation.url = candidate.url | url %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endif %}
+        <li class="md-select__item">
+          <a class="md-select__link" href="{{ translation.url }}" hreflang="{{ alt.lang }}" lang="{{ alt.lang }}">{{ alt.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

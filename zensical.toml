@@ -12,6 +12,7 @@ use_directory_urls = true
 [project.theme]
 variant = "modern"
 language = "ru"
+custom_dir = "overrides"
 # Системные шрифты: без обращения к Google Fonts.
 font = false
 features = [
@@ -39,7 +40,7 @@ accent = "indigo"
 toggle.icon = "lucide/moon"
 toggle.name = "Переключиться на светлую тему"
 
-# Поиск Zensical включён по умолчанию и поддерживает несколько языков.
+# Поиск Zensical поддерживает несколько языков.
 [project.markdown_extensions]
 tables = {}
 attr_list = {}
@@ -54,3 +55,16 @@ permalink_title = "Ссылка на этот раздел"
 # Сохраняем кириллицу и латиницу в автоматически созданных якорях.
 slugify.object = "pymdownx.slugs.slugify"
 slugify.kwds.case = "lower"
+
+[project.extra]
+alternate = [
+  { name = "Русский", link = "https://rakki.github.io/fandoms/ru/", lang = "ru" },
+  { name = "English", link = "https://rakki.github.io/fandoms/en/", lang = "en" },
+]
+
+# Сохраняем старый адрес уже опубликованной статьи.
+[project.plugins.search]
+enabled = true
+
+[project.plugins.redirects.redirect_maps]
+"articles/bestiary_monsters.md" = "ru/articles/bestiary_monsters.md"
