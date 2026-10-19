@@ -12,11 +12,12 @@
   {% set permanent_prefix_length = permanent_prefix | length %}
   {% set articles = namespace(news=[], permanent=[]) %}
   {% for article in nav.pages %}
-    {% if article.file.src_uri[:news_prefix_length] == news_prefix %}
-      {% set dates = history.dates[article.file.src_uri] | default({}) %}
+    {% set article_url = article.url | default('', true) %}
+    {% if article_url[:news_prefix_length] == news_prefix %}
+      {% set dates = history.dates[article_url] | default({}) %}
       {% set date = dates.updated | default('', true) %}
       {% set articles.news = articles.news + [{'article': article, 'date': date}] %}
-    {% elif article.file.src_uri[:permanent_prefix_length] == permanent_prefix %}
+    {% elif article_url[:permanent_prefix_length] == permanent_prefix %}
       {% set articles.permanent = articles.permanent + [article] %}
     {% endif %}
   {% endfor %}

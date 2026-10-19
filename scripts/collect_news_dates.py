@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 import subprocess
+from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -35,7 +36,11 @@ def main():
             # Uncommitted new files still appear in local previews.
             created = timestamps[-1] if timestamps else path.stat().st_mtime
             updated = timestamps[0] if timestamps else path.stat().st_mtime
-            dates[path.relative_to(DOCS).as_posix()] = {
+            # Navigation entries expose encoded page URLs, not source files.
+            relative = path.relative_to(DOCS)
+            route = relative.parent if relative.name in ("index.md", "README.md") else relative.with_suffix("")
+            url = quote(route.as_posix().rstrip("/") + "/", safe="/")
+            dates[url] = {
                 "created": iso_timestamp(created),
                 "updated": iso_timestamp(updated),
             }
